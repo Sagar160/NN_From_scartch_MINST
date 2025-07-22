@@ -4,5 +4,5 @@ Train a simple fully‑connected neural network on the MNIST dataset using only 
 
 ## Implementation
 
-- feed forward network
+- Feed Forward Network
 - CNN
